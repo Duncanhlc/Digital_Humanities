@@ -1,0 +1,691 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-05-09">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="day" label="day" />
+      <node id="one" label="one" />
+      <node id="two" label="two" />
+      <node id="every" label="every" />
+      <node id="three" label="three" />
+      <node id="greater" label="greater" />
+      <node id="part" label="part" />
+      <node id="foot" label="foot" />
+      <node id="high" label="high" />
+      <node id="early" label="early" />
+      <node id="morning" label="morning" />
+      <node id="great" label="great" />
+      <node id="distance" label="distance" />
+      <node id="mile" label="mile" />
+      <node id="del" label="del" />
+      <node id="fuego" label="fuego" />
+      <node id="capt" label="capt" />
+      <node id="fitzroy" label="fitzroy" />
+      <node id="ayres" label="ayres" />
+      <node id="buenos" label="buenos" />
+      <node id="bad" label="bad" />
+      <node id="weather" label="weather" />
+      <node id="side" label="side" />
+      <node id="deal" label="deal" />
+      <node id="good" label="good" />
+      <node id="would" label="would" />
+      <node id="jago" label="jago" />
+      <node id="st" label="st" />
+      <node id="long" label="long" />
+      <node id="walk" label="walk" />
+      <node id="gale" label="gale" />
+      <node id="wind" label="wind" />
+      <node id="whole" label="whole" />
+      <node id="next" label="next" />
+      <node id="men" label="men" />
+      <node id="number" label="number" />
+      <node id="place" label="place" />
+      <node id="tierra" label="tierra" />
+      <node id="took" label="took" />
+      <node id="saw" label="saw" />
+      <node id="middle" label="middle" />
+      <node id="time" label="time" />
+      <node id="year" label="year" />
+      <node id="anchor" label="anchor" />
+      <node id="came" label="came" />
+      <node id="staid" label="staid" />
+      <node id="fresh" label="fresh" />
+      <node id="water" label="water" />
+      <node id="much" label="much" />
+      <node id="negro" label="negro" />
+      <node id="rio" label="rio" />
+      <node id="large" label="large" />
+      <node id="never" label="never" />
+      <node id="house" label="house" />
+      <node id="night" label="night" />
+      <node id="short" label="short" />
+      <node id="spent" label="spent" />
+      <node id="first" label="first" />
+      <node id="little" label="little" />
+      <node id="mr" label="mr" />
+      <node id="wickham" label="wickham" />
+      <node id="distant" label="distant" />
+      <node id="last" label="last" />
+      <node id="man" label="man" />
+      <node id="many" label="many" />
+      <node id="mountain" label="mountain" />
+      <node id="boat" label="boat" />
+      <node id="country" label="country" />
+      <node id="known" label="known" />
+      <node id="well" label="well" />
+      <node id="old" label="old" />
+      <node id="shore" label="shore" />
+      <node id="went" label="went" />
+      <node id="ago" label="ago" />
+      <node id="heavy" label="heavy" />
+      <node id="rain" label="rain" />
+      <node id="sea" label="sea" />
+      <node id="valley" label="valley" />
+      <node id="general" label="general" />
+      <node id="rosa" label="rosa" />
+      <node id="fine" label="fine" />
+      <node id="thing" label="thing" />
+      <node id="beautiful" label="beautiful" />
+      <node id="board" label="board" />
+      <node id="along" label="along" />
+      <node id="coast" label="coast" />
+      <node id="america" label="america" />
+      <node id="s." label="s." />
+      <node id="could" label="could" />
+      <node id="nothing" label="nothing" />
+      <node id="passed" label="passed" />
+      <node id="evening" label="evening" />
+      <node id="cocoa" label="cocoa" />
+      <node id="nut" label="nut" />
+      <node id="stokes" label="stokes" />
+      <node id="horse" label="horse" />
+      <node id="found" label="found" />
+      <node id="cattle" label="cattle" />
+      <node id="light" label="light" />
+      <node id="made" label="made" />
+      <node id="sail" label="sail" />
+      <node id="level" label="level" />
+      <node id="plain" label="plain" />
+      <node id="fe" label="fe" />
+      <node id="party" label="party" />
+      <node id="torrent" label="torrent" />
+      <node id="almost" label="almost" />
+      <node id="line" label="line" />
+      <node id="straight" label="straight" />
+      <node id="r." label="r." />
+      <node id="busby" label="busby" />
+      <node id="island" label="island" />
+      <node id="forest" label="forest" />
+      <node id="tree" label="tree" />
+      <node id="captain" label="captain" />
+      <node id="ship" label="ship" />
+      <node id="salt" label="salt" />
+      <node id="chaffers" label="chaffers" />
+      <node id="blue" label="blue" />
+      <node id="sky" label="sky" />
+      <node id="see" label="see" />
+      <node id="view" label="view" />
+      <node id="survey" label="survey" />
+      <node id="b." label="b." />
+      <node id="within" label="within" />
+      <node id="t." label="t." />
+      <node id="m." label="m." />
+      <node id="video" label="video" />
+      <node id="paid" label="paid" />
+      <node id="visit" label="visit" />
+      <node id="indian" label="indian" />
+      <node id="u" label="u" />
+      <node id="hot" label="hot" />
+      <node id="young" label="young" />
+      <node id="anchored" label="anchored" />
+      <node id="since" label="since" />
+      <node id="must" label="must" />
+      <node id="friend" label="friend" />
+      <node id="sent" label="sent" />
+      <node id="hill" label="hill" />
+      <node id="circumference" label="circumference" />
+      <node id="called" label="called" />
+      <node id="height" label="height" />
+      <node id="seen" label="seen" />
+      <node id="determined" label="determined" />
+      <node id="child" label="child" />
+      <node id="woman" label="woman" />
+      <node id="started" label="started" />
+      <node id="may" label="may" />
+      <node id="blew" label="blew" />
+      <node id="near" label="near" />
+      <node id="ride" label="ride" />
+      <node id="beagle" label="beagle" />
+      <node id="breeze" label="breeze" />
+      <node id="carlos" label="carlos" />
+      <node id="way" label="way" />
+      <node id="like" label="like" />
+      <node id="looked" label="looked" />
+      <node id="arrived" label="arrived" />
+      <node id="think" label="think" />
+      <node id="several" label="several" />
+      <node id="another" label="another" />
+      <node id="small" label="small" />
+      <node id="bird" label="bird" />
+      <node id="insect" label="insect" />
+      <node id="fair" label="fair" />
+      <node id="clear" label="clear" />
+      <node id="town" label="town" />
+      <node id="dined" label="dined" />
+      <node id="central" label="central" />
+      <node id="quite" label="quite" />
+      <node id="less" label="less" />
+      <node id="point" label="point" />
+      <node id="got" label="got" />
+      <node id="weigh" label="weigh" />
+      <node id="road" label="road" />
+      <node id="desire" label="desire" />
+      <node id="port" label="port" />
+      <node id="strong" label="strong" />
+      <node id="christmas" label="christmas" />
+      <node id="give" label="give" />
+      <node id="idea" label="idea" />
+      <node id="without" label="without" />
+      <node id="nearly" label="nearly" />
+      <node id="rode" label="rode" />
+      <node id="flow" label="flow" />
+      <node id="inhabitant" label="inhabitant" />
+      <node id="tribe" label="tribe" />
+      <node id="de" label="de" />
+      <node id="la" label="la" />
+      <node id="west" label="west" />
+      <node id="bahia" label="bahia" />
+      <node id="bianca" label="bianca" />
+      <node id="wood" label="wood" />
+      <node id="cape" label="cape" />
+      <node id="horn" label="horn" />
+      <node id="slept" label="slept" />
+      <node id="killed" label="killed" />
+      <node id="harris" label="harris" />
+      <node id="river" label="river" />
+      <node id="luck" label="luck" />
+      <node id="command" label="command" />
+      <node id="course" label="course" />
+      <node id="fortune" label="fortune" />
+      <node id="built" label="built" />
+      <node id="hundred" label="hundred" />
+      <node id="yard" label="yard" />
+      <node id="even" label="even" />
+      <node id="ground" label="ground" />
+      <node id="people" label="people" />
+      <node id="body" label="body" />
+      <node id="leaving" label="leaving" />
+      <node id="plant" label="plant" />
+      <node id="scenery" label="scenery" />
+      <node id="ponsonby" label="ponsonby" />
+      <node id="sound" label="sound" />
+      <node id="lofty" label="lofty" />
+      <node id="yet" label="yet" />
+      <node id="sterile" label="sterile" />
+      <node id="five" label="five" />
+      <node id="new" label="new" />
+      <node id="zealand" label="zealand" />
+      <node id="black" label="black" />
+      <node id="lava" label="lava" />
+      <node id="¡x" label="¡x" />
+      <node id="ft" label="ft" />
+      <node id="ensuing" label="ensuing" />
+      <node id="introduction" label="introduction" />
+      <node id="letter" label="letter" />
+      <node id="calm" label="calm" />
+      <node id="take" label="take" />
+      <node id="bay" label="bay" />
+      <node id="league" label="league" />
+      <node id="make" label="make" />
+      <node id="sleeping" label="sleeping" />
+      <node id="late" label="late" />
+      <node id="covered" label="covered" />
+      <node id="opposite" label="opposite" />
+      <node id="cultivated" label="cultivated" />
+      <node id="gave" label="gave" />
+      <node id="let" label="let" />
+      <node id="rock" label="rock" />
+      <node id="volcanic" label="volcanic" />
+      <node id="vessel" label="vessel" />
+      <node id="sulivan" label="sulivan" />
+      <node id="green" label="green" />
+      <node id="turf" label="turf" />
+      <node id="better" label="better" />
+      <node id="alta" label="alta" />
+      <node id="punta" label="punta" />
+      <node id="appearance" label="appearance" />
+      <node id="schooner" label="schooner" />
+      <node id="england" label="england" />
+      <node id="hour" label="hour" />
+      <node id="cloudless" label="cloudless" />
+      <node id="tropical" label="tropical" />
+      <node id="blood" label="blood" />
+      <node id="edge" label="edge" />
+    </nodes>
+    <edges>
+      <edge source="day" target="one" id="0" weight="70" />
+      <edge source="day" target="two" id="1" weight="61" />
+      <edge source="day" target="whole" id="2" weight="29" />
+      <edge source="day" target="long" id="3" weight="29" />
+      <edge source="day" target="next" id="4" weight="28" />
+      <edge source="day" target="middle" id="5" weight="26" />
+      <edge source="day" target="staid" id="6" weight="25" />
+      <edge source="day" target="time" id="7" weight="25" />
+      <edge source="day" target="much" id="8" weight="25" />
+      <edge source="day" target="night" id="9" weight="24" />
+      <edge source="day" target="spent" id="10" weight="24" />
+      <edge source="day" target="part" id="11" weight="24" />
+      <edge source="day" target="first" id="12" weight="23" />
+      <edge source="day" target="three" id="13" weight="22" />
+      <edge source="day" target="last" id="14" weight="22" />
+      <edge source="day" target="fine" id="15" weight="20" />
+      <edge source="day" target="beautiful" id="16" weight="20" />
+      <edge source="day" target="passed" id="17" weight="18" />
+      <edge source="day" target="evening" id="18" weight="18" />
+      <edge source="day" target="weather" id="19" weight="17" />
+      <edge source="day" target="wind" id="20" weight="17" />
+      <edge source="day" target="every" id="21" weight="15" />
+      <edge source="day" target="great" id="22" weight="15" />
+      <edge source="day" target="little" id="23" weight="15" />
+      <edge source="day" target="mr" id="24" weight="14" />
+      <edge source="day" target="hot" id="25" weight="14" />
+      <edge source="day" target="island" id="26" weight="14" />
+      <edge source="day" target="board" id="27" weight="13" />
+      <edge source="day" target="ride" id="28" weight="13" />
+      <edge source="day" target="arrived" id="29" weight="12" />
+      <edge source="day" target="made" id="30" weight="12" />
+      <edge source="day" target="christmas" id="31" weight="12" />
+      <edge source="day" target="rode" id="32" weight="11" />
+      <edge source="day" target="rain" id="33" weight="11" />
+      <edge source="day" target="several" id="34" weight="11" />
+      <edge source="day" target="took" id="35" weight="11" />
+      <edge source="day" target="like" id="36" weight="11" />
+      <edge source="day" target="u" id="37" weight="11" />
+      <edge source="day" target="town" id="38" weight="11" />
+      <edge source="day" target="would" id="39" weight="11" />
+      <edge source="day" target="course" id="40" weight="11" />
+      <edge source="day" target="breeze" id="41" weight="11" />
+      <edge source="day" target="greater" id="42" weight="11" />
+      <edge source="day" target="bad" id="43" weight="11" />
+      <edge source="day" target="beagle" id="44" weight="11" />
+      <edge source="day" target="country" id="45" weight="10" />
+      <edge source="day" target="house" id="46" weight="10" />
+      <edge source="day" target="five" id="47" weight="10" />
+      <edge source="day" target="ensuing" id="48" weight="10" />
+      <edge source="day" target="calm" id="49" weight="10" />
+      <edge source="day" target="went" id="50" weight="10" />
+      <edge source="day" target="water" id="51" weight="10" />
+      <edge source="day" target="found" id="52" weight="10" />
+      <edge source="day" target="saw" id="53" weight="10" />
+      <edge source="day" target="even" id="54" weight="10" />
+      <edge source="day" target="mile" id="55" weight="10" />
+      <edge source="one" target="every" id="56" weight="46" />
+      <edge source="one" target="two" id="57" weight="39" />
+      <edge source="one" target="great" id="58" weight="37" />
+      <edge source="one" target="side" id="59" weight="32" />
+      <edge source="one" target="would" id="60" weight="31" />
+      <edge source="one" target="place" id="61" weight="28" />
+      <edge source="one" target="saw" id="62" weight="27" />
+      <edge source="one" target="time" id="63" weight="26" />
+      <edge source="one" target="large" id="64" weight="25" />
+      <edge source="one" target="house" id="65" weight="24" />
+      <edge source="one" target="man" id="66" weight="22" />
+      <edge source="one" target="men" id="67" weight="21" />
+      <edge source="one" target="old" id="68" weight="20" />
+      <edge source="one" target="valley" id="69" weight="20" />
+      <edge source="one" target="little" id="70" weight="18" />
+      <edge source="one" target="water" id="71" weight="18" />
+      <edge source="one" target="much" id="72" weight="17" />
+      <edge source="one" target="mr" id="73" weight="17" />
+      <edge source="one" target="three" id="74" weight="17" />
+      <edge source="one" target="one" id="75" weight="17" />
+      <edge source="one" target="horse" id="76" weight="17" />
+      <edge source="one" target="found" id="77" weight="17" />
+      <edge source="one" target="many" id="78" weight="17" />
+      <edge source="one" target="good" id="79" weight="17" />
+      <edge source="one" target="high" id="80" weight="16" />
+      <edge source="one" target="party" id="81" weight="16" />
+      <edge source="one" target="part" id="82" weight="16" />
+      <edge source="one" target="island" id="83" weight="16" />
+      <edge source="one" target="ship" id="84" weight="15" />
+      <edge source="one" target="foot" id="85" weight="15" />
+      <edge source="one" target="see" id="86" weight="15" />
+      <edge source="one" target="mile" id="87" weight="15" />
+      <edge source="one" target="view" id="88" weight="15" />
+      <edge source="one" target="long" id="89" weight="15" />
+      <edge source="one" target="whole" id="90" weight="15" />
+      <edge source="one" target="indian" id="91" weight="14" />
+      <edge source="one" target="u" id="92" weight="14" />
+      <edge source="one" target="must" id="93" weight="14" />
+      <edge source="one" target="last" id="94" weight="14" />
+      <edge source="one" target="night" id="95" weight="13" />
+      <edge source="one" target="called" id="96" weight="13" />
+      <edge source="one" target="seen" id="97" weight="13" />
+      <edge source="one" target="year" id="98" weight="13" />
+      <edge source="one" target="tree" id="99" weight="13" />
+      <edge source="one" target="may" id="100" weight="13" />
+      <edge source="one" target="came" id="101" weight="12" />
+      <edge source="one" target="fine" id="102" weight="12" />
+      <edge source="one" target="another" id="103" weight="12" />
+      <edge source="one" target="morning" id="104" weight="12" />
+      <edge source="one" target="could" id="105" weight="12" />
+      <edge source="one" target="never" id="106" weight="12" />
+      <edge source="one" target="beautiful" id="107" weight="12" />
+      <edge source="one" target="distance" id="108" weight="12" />
+      <edge source="one" target="road" id="109" weight="12" />
+      <edge source="one" target="first" id="110" weight="12" />
+      <edge source="one" target="nearly" id="111" weight="12" />
+      <edge source="one" target="country" id="112" weight="12" />
+      <edge source="one" target="like" id="113" weight="11" />
+      <edge source="one" target="killed" id="114" weight="11" />
+      <edge source="one" target="small" id="115" weight="11" />
+      <edge source="one" target="even" id="116" weight="11" />
+      <edge source="one" target="hill" id="117" weight="11" />
+      <edge source="one" target="plain" id="118" weight="10" />
+      <edge source="one" target="mountain" id="119" weight="10" />
+      <edge source="one" target="yet" id="120" weight="10" />
+      <edge source="one" target="¡x" id="121" weight="10" />
+      <edge source="one" target="make" id="122" weight="10" />
+      <edge source="one" target="without" id="123" weight="10" />
+      <edge source="one" target="hour" id="124" weight="10" />
+      <edge source="one" target="think" id="125" weight="10" />
+      <edge source="two" target="three" id="126" weight="44" />
+      <edge source="two" target="men" id="127" weight="28" />
+      <edge source="two" target="boat" id="128" weight="21" />
+      <edge source="two" target="horse" id="129" weight="14" />
+      <edge source="two" target="year" id="130" weight="14" />
+      <edge source="two" target="country" id="131" weight="14" />
+      <edge source="two" target="house" id="132" weight="14" />
+      <edge source="two" target="mile" id="133" weight="13" />
+      <edge source="two" target="indian" id="134" weight="13" />
+      <edge source="two" target="small" id="135" weight="12" />
+      <edge source="two" target="first" id="136" weight="12" />
+      <edge source="two" target="long" id="137" weight="11" />
+      <edge source="two" target="party" id="138" weight="10" />
+      <edge source="two" target="would" id="139" weight="10" />
+      <edge source="every" target="thing" id="140" weight="20" />
+      <edge source="every" target="part" id="141" weight="16" />
+      <edge source="every" target="almost" id="142" weight="16" />
+      <edge source="every" target="man" id="143" weight="12" />
+      <edge source="three" target="year" id="144" weight="13" />
+      <edge source="three" target="time" id="145" weight="12" />
+      <edge source="three" target="mile" id="146" weight="11" />
+      <edge source="greater" target="part" id="147" weight="41" />
+      <edge source="greater" target="number" id="148" weight="19" />
+      <edge source="greater" target="much" id="149" weight="11" />
+      <edge source="part" target="country" id="150" weight="16" />
+      <edge source="part" target="island" id="151" weight="13" />
+      <edge source="part" target="central" id="152" weight="12" />
+      <edge source="foot" target="high" id="153" weight="38" />
+      <edge source="foot" target="circumference" id="154" weight="14" />
+      <edge source="foot" target="height" id="155" weight="13" />
+      <edge source="foot" target="mountain" id="156" weight="13" />
+      <edge source="foot" target="tree" id="157" weight="12" />
+      <edge source="foot" target="ground" id="158" weight="11" />
+      <edge source="foot" target="hill" id="159" weight="10" />
+      <edge source="high" target="hill" id="160" weight="14" />
+      <edge source="high" target="mountain" id="161" weight="12" />
+      <edge source="high" target="ft" id="162" weight="10" />
+      <edge source="early" target="morning" id="163" weight="37" />
+      <edge source="morning" target="next" id="164" weight="14" />
+      <edge source="morning" target="started" id="165" weight="13" />
+      <edge source="great" target="number" id="166" weight="28" />
+      <edge source="great" target="sea" id="167" weight="20" />
+      <edge source="great" target="distance" id="168" weight="15" />
+      <edge source="great" target="indian" id="169" weight="13" />
+      <edge source="great" target="many" id="170" weight="12" />
+      <edge source="great" target="place" id="171" weight="12" />
+      <edge source="great" target="plain" id="172" weight="11" />
+      <edge source="great" target="deal" id="173" weight="11" />
+      <edge source="great" target="ship" id="174" weight="10" />
+      <edge source="great" target="river" id="175" weight="10" />
+      <edge source="distance" target="mile" id="176" weight="35" />
+      <edge source="distance" target="short" id="177" weight="18" />
+      <edge source="distance" target="seen" id="178" weight="12" />
+      <edge source="distance" target="league" id="179" weight="10" />
+      <edge source="mile" target="distant" id="180" weight="22" />
+      <edge source="mile" target="country" id="181" weight="21" />
+      <edge source="mile" target="within" id="182" weight="15" />
+      <edge source="mile" target="many" id="183" weight="13" />
+      <edge source="mile" target="several" id="184" weight="12" />
+      <edge source="mile" target="line" id="185" weight="12" />
+      <edge source="mile" target="town" id="186" weight="12" />
+      <edge source="mile" target="coast" id="187" weight="12" />
+      <edge source="mile" target="island" id="188" weight="10" />
+      <edge source="mile" target="river" id="189" weight="10" />
+      <edge source="del" target="fuego" id="190" weight="34" />
+      <edge source="del" target="tierra" id="191" weight="27" />
+      <edge source="del" target="t." id="192" weight="15" />
+      <edge source="fuego" target="tierra" id="193" weight="19" />
+      <edge source="fuego" target="t." id="194" weight="14" />
+      <edge source="capt" target="fitzroy" id="195" weight="33" />
+      <edge source="ayres" target="buenos" id="196" weight="32" />
+      <edge source="ayres" target="b." id="197" weight="15" />
+      <edge source="bad" target="weather" id="198" weight="32" />
+      <edge source="weather" target="fine" id="199" weight="19" />
+      <edge source="weather" target="last" id="200" weight="10" />
+      <edge source="side" target="mountain" id="201" weight="21" />
+      <edge source="side" target="hill" id="202" weight="11" />
+      <edge source="side" target="valley" id="203" weight="10" />
+      <edge source="side" target="opposite" id="204" weight="10" />
+      <edge source="deal" target="good" id="205" weight="31" />
+      <edge source="good" target="many" id="206" weight="15" />
+      <edge source="good" target="luck" id="207" weight="11" />
+      <edge source="good" target="fortune" id="208" weight="11" />
+      <edge source="good" target="water" id="209" weight="10" />
+      <edge source="good" target="made" id="210" weight="10" />
+      <edge source="good" target="u" id="211" weight="10" />
+      <edge source="would" target="country" id="212" weight="15" />
+      <edge source="would" target="think" id="213" weight="12" />
+      <edge source="would" target="u" id="214" weight="12" />
+      <edge source="would" target="never" id="215" weight="10" />
+      <edge source="would" target="england" id="216" weight="10" />
+      <edge source="jago" target="st" id="217" weight="30" />
+      <edge source="st" target="fe" id="218" weight="16" />
+      <edge source="st" target="bay" id="219" weight="10" />
+      <edge source="long" target="walk" id="220" weight="30" />
+      <edge source="long" target="took" id="221" weight="23" />
+      <edge source="long" target="time" id="222" weight="13" />
+      <edge source="long" target="ride" id="223" weight="10" />
+      <edge source="walk" target="took" id="224" weight="27" />
+      <edge source="gale" target="wind" id="225" weight="30" />
+      <edge source="gale" target="heavy" id="226" weight="13" />
+      <edge source="gale" target="blew" id="227" weight="13" />
+      <edge source="wind" target="light" id="228" weight="17" />
+      <edge source="wind" target="rain" id="229" weight="15" />
+      <edge source="wind" target="ship" id="230" weight="14" />
+      <edge source="wind" target="fair" id="231" weight="12" />
+      <edge source="wind" target="u" id="232" weight="12" />
+      <edge source="whole" target="country" id="233" weight="18" />
+      <edge source="whole" target="party" id="234" weight="12" />
+      <edge source="whole" target="time" id="235" weight="11" />
+      <edge source="whole" target="island" id="236" weight="10" />
+      <edge source="men" target="many" id="237" weight="17" />
+      <edge source="men" target="party" id="238" weight="15" />
+      <edge source="men" target="young" id="239" weight="14" />
+      <edge source="men" target="u" id="240" weight="12" />
+      <edge source="men" target="woman" id="241" weight="12" />
+      <edge source="men" target="horse" id="242" weight="10" />
+      <edge source="number" target="house" id="243" weight="10" />
+      <edge source="number" target="tree" id="244" weight="10" />
+      <edge source="place" target="many" id="245" weight="21" />
+      <edge source="place" target="found" id="246" weight="16" />
+      <edge source="place" target="little" id="247" weight="13" />
+      <edge source="place" target="took" id="248" weight="11" />
+      <edge source="place" target="¡x" id="249" weight="10" />
+      <edge source="place" target="take" id="250" weight="10" />
+      <edge source="place" target="sleeping" id="251" weight="10" />
+      <edge source="saw" target="never" id="252" weight="25" />
+      <edge source="time" target="year" id="253" weight="26" />
+      <edge source="time" target="short" id="254" weight="24" />
+      <edge source="time" target="first" id="255" weight="17" />
+      <edge source="time" target="last" id="256" weight="16" />
+      <edge source="time" target="much" id="257" weight="14" />
+      <edge source="time" target="several" id="258" weight="10" />
+      <edge source="time" target="many" id="259" weight="10" />
+      <edge source="year" target="ago" id="260" weight="20" />
+      <edge source="year" target="last" id="261" weight="19" />
+      <edge source="year" target="many" id="262" weight="17" />
+      <edge source="year" target="old" id="263" weight="14" />
+      <edge source="year" target="since" id="264" weight="14" />
+      <edge source="year" target="island" id="265" weight="11" />
+      <edge source="anchor" target="came" id="266" weight="26" />
+      <edge source="anchor" target="let" id="267" weight="10" />
+      <edge source="came" target="board" id="268" weight="12" />
+      <edge source="came" target="night" id="269" weight="11" />
+      <edge source="came" target="evening" id="270" weight="10" />
+      <edge source="fresh" target="water" id="271" weight="25" />
+      <edge source="fresh" target="breeze" id="272" weight="13" />
+      <edge source="water" target="little" id="273" weight="23" />
+      <edge source="water" target="salt" id="274" weight="15" />
+      <edge source="water" target="much" id="275" weight="13" />
+      <edge source="water" target="without" id="276" weight="12" />
+      <edge source="water" target="flow" id="277" weight="11" />
+      <edge source="water" target="river" id="278" weight="11" />
+      <edge source="water" target="small" id="279" weight="11" />
+      <edge source="water" target="body" id="280" weight="11" />
+      <edge source="water" target="large" id="281" weight="10" />
+      <edge source="water" target="found" id="282" weight="10" />
+      <edge source="water" target="edge" id="283" weight="10" />
+      <edge source="much" target="country" id="284" weight="16" />
+      <edge source="much" target="like" id="285" weight="13" />
+      <edge source="much" target="less" id="286" weight="12" />
+      <edge source="much" target="inhabitant" id="287" weight="11" />
+      <edge source="much" target="rain" id="288" weight="11" />
+      <edge source="much" target="many" id="289" weight="11" />
+      <edge source="much" target="indian" id="290" weight="10" />
+      <edge source="much" target="night" id="291" weight="10" />
+      <edge source="much" target="better" id="292" weight="10" />
+      <edge source="much" target="appearance" id="293" weight="10" />
+      <edge source="much" target="little" id="294" weight="10" />
+      <edge source="negro" target="rio" id="295" weight="25" />
+      <edge source="negro" target="r." id="296" weight="16" />
+      <edge source="large" target="party" id="297" weight="16" />
+      <edge source="large" target="house" id="298" weight="12" />
+      <edge source="never" target="seen" id="299" weight="12" />
+      <edge source="house" target="mr" id="300" weight="14" />
+      <edge source="house" target="country" id="301" weight="13" />
+      <edge source="house" target="night" id="302" weight="12" />
+      <edge source="house" target="passed" id="303" weight="10" />
+      <edge source="house" target="built" id="304" weight="10" />
+      <edge source="night" target="anchored" id="305" weight="14" />
+      <edge source="night" target="slept" id="306" weight="11" />
+      <edge source="little" target="way" id="307" weight="13" />
+      <edge source="little" target="found" id="308" weight="11" />
+      <edge source="little" target="valley" id="309" weight="11" />
+      <edge source="little" target="horse" id="310" weight="11" />
+      <edge source="little" target="town" id="311" weight="10" />
+      <edge source="little" target="beautiful" id="312" weight="10" />
+      <edge source="little" target="country" id="313" weight="10" />
+      <edge source="little" target="schooner" id="314" weight="10" />
+      <edge source="mr" target="wickham" id="315" weight="23" />
+      <edge source="mr" target="stokes" id="316" weight="17" />
+      <edge source="mr" target="busby" id="317" weight="16" />
+      <edge source="mr" target="chaffers" id="318" weight="15" />
+      <edge source="mr" target="dined" id="319" weight="12" />
+      <edge source="mr" target="mr" id="320" weight="11" />
+      <edge source="mr" target="harris" id="321" weight="11" />
+      <edge source="mr" target="command" id="322" weight="11" />
+      <edge source="mr" target="beagle" id="323" weight="11" />
+      <edge source="mr" target="went" id="324" weight="11" />
+      <edge source="mr" target="sulivan" id="325" weight="10" />
+      <edge source="man" target="old" id="326" weight="19" />
+      <edge source="man" target="u" id="327" weight="10" />
+      <edge source="many" target="tree" id="328" weight="13" />
+      <edge source="many" target="horse" id="329" weight="11" />
+      <edge source="many" target="island" id="330" weight="11" />
+      <edge source="many" target="people" id="331" weight="11" />
+      <edge source="many" target="country" id="332" weight="11" />
+      <edge source="many" target="plant" id="333" weight="10" />
+      <edge source="many" target="indian" id="334" weight="10" />
+      <edge source="mountain" target="lofty" id="335" weight="10" />
+      <edge source="boat" target="sent" id="336" weight="14" />
+      <edge source="boat" target="captain" id="337" weight="13" />
+      <edge source="boat" target="shore" id="338" weight="11" />
+      <edge source="country" target="level" id="339" weight="14" />
+      <edge source="country" target="quite" id="340" weight="12" />
+      <edge source="country" target="road" id="341" weight="12" />
+      <edge source="country" target="coast" id="342" weight="10" />
+      <edge source="country" target="plain" id="343" weight="10" />
+      <edge source="country" target="cultivated" id="344" weight="10" />
+      <edge source="known" target="well" id="345" weight="20" />
+      <edge source="old" target="friend" id="346" weight="14" />
+      <edge source="shore" target="went" id="347" weight="20" />
+      <edge source="shore" target="ship" id="348" weight="12" />
+      <edge source="went" target="board" id="349" weight="19" />
+      <edge source="went" target="captain" id="350" weight="15" />
+      <edge source="went" target="evening" id="351" weight="14" />
+      <edge source="went" target="party" id="352" weight="12" />
+      <edge source="heavy" target="rain" id="353" weight="20" />
+      <edge source="rain" target="torrent" id="354" weight="16" />
+      <edge source="valley" target="plain" id="355" weight="15" />
+      <edge source="general" target="rosa" id="356" weight="20" />
+      <edge source="fine" target="view" id="357" weight="13" />
+      <edge source="fine" target="breeze" id="358" weight="11" />
+      <edge source="beautiful" target="scenery" id="359" weight="10" />
+      <edge source="board" target="beagle" id="360" weight="13" />
+      <edge source="board" target="ship" id="361" weight="11" />
+      <edge source="along" target="coast" id="362" weight="19" />
+      <edge source="coast" target="survey" id="363" weight="15" />
+      <edge source="coast" target="near" id="364" weight="13" />
+      <edge source="coast" target="west" id="365" weight="11" />
+      <edge source="america" target="s." id="366" weight="19" />
+      <edge source="s." target="carlos" id="367" weight="13" />
+      <edge source="could" target="nothing" id="368" weight="18" />
+      <edge source="could" target="see" id="369" weight="15" />
+      <edge source="could" target="found" id="370" weight="11" />
+      <edge source="passed" target="road" id="371" weight="10" />
+      <edge source="evening" target="arrived" id="372" weight="12" />
+      <edge source="evening" target="late" id="373" weight="10" />
+      <edge source="cocoa" target="nut" id="374" weight="18" />
+      <edge source="horse" target="cattle" id="375" weight="17" />
+      <edge source="light" target="breeze" id="376" weight="10" />
+      <edge source="made" target="sail" id="377" weight="16" />
+      <edge source="sail" target="beagle" id="378" weight="11" />
+      <edge source="level" target="plain" id="379" weight="16" />
+      <edge source="plain" target="sterile" id="380" weight="10" />
+      <edge source="plain" target="covered" id="381" weight="10" />
+      <edge source="line" target="straight" id="382" weight="16" />
+      <edge source="forest" target="tree" id="383" weight="15" />
+      <edge source="tree" target="wood" id="384" weight="11" />
+      <edge source="tree" target="seen" id="385" weight="10" />
+      <edge source="captain" target="determined" id="386" weight="13" />
+      <edge source="captain" target="ship" id="387" weight="13" />
+      <edge source="blue" target="sky" id="388" weight="15" />
+      <edge source="sky" target="clear" id="389" weight="12" />
+      <edge source="sky" target="cloudless" id="390" weight="10" />
+      <edge source="view" target="point" id="391" weight="12" />
+      <edge source="m." target="video" id="392" weight="14" />
+      <edge source="paid" target="visit" id="393" weight="14" />
+      <edge source="indian" target="tribe" id="394" weight="11" />
+      <edge source="indian" target="blood" id="395" weight="10" />
+      <edge source="u" target="breeze" id="396" weight="12" />
+      <edge source="u" target="gave" id="397" weight="10" />
+      <edge source="since" target="leaving" id="398" weight="10" />
+      <edge source="child" target="woman" id="399" weight="13" />
+      <edge source="breeze" target="strong" id="400" weight="12" />
+      <edge source="like" target="looked" id="401" weight="13" />
+      <edge source="several" target="small" id="402" weight="10" />
+      <edge source="small" target="vessel" id="403" weight="10" />
+      <edge source="bird" target="insect" id="404" weight="12" />
+      <edge source="town" target="built" id="405" weight="11" />
+      <edge source="got" target="weigh" id="406" weight="12" />
+      <edge source="desire" target="port" id="407" weight="12" />
+      <edge source="give" target="idea" id="408" weight="12" />
+      <edge source="de" target="la" id="409" weight="11" />
+      <edge source="bahia" target="bianca" id="410" weight="11" />
+      <edge source="cape" target="horn" id="411" weight="11" />
+      <edge source="hundred" target="yard" id="412" weight="11" />
+      <edge source="scenery" target="tropical" id="413" weight="10" />
+      <edge source="ponsonby" target="sound" id="414" weight="10" />
+      <edge source="new" target="zealand" id="415" weight="10" />
+      <edge source="black" target="lava" id="416" weight="10" />
+      <edge source="introduction" target="letter" id="417" weight="10" />
+      <edge source="rock" target="volcanic" id="418" weight="10" />
+      <edge source="green" target="turf" id="419" weight="10" />
+      <edge source="alta" target="punta" id="420" weight="10" />
+    </edges>
+  </graph>
+</gexf>
